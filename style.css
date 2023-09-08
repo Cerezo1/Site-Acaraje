@@ -1,0 +1,154 @@
+
+.aviso{
+  color: red;
+  text-align: center;
+}
+
+#identificacao{
+  margin-left: 20%;
+}
+
+#pedido{
+  margin-left: 20%;
+}
+
+#nome{
+  margin-left: 19%;
+}
+
+#telefone{
+  margin-left: 17%;
+}
+
+#arquivo{
+  margin-left: 20%;
+  margin-top: 2%;
+}
+
+#btnsuccess{
+  margin-left: 20%;
+  margin-top: 2%;
+}
+
+#btncancel{
+  margin-top: 2%;
+  margin-left: 43.5%;
+  position: absolute;
+
+}
+
+
+body{
+  background-color: rgb(141, 141, 134);
+}
+
+
+#menu {
+  margin-top: -40px;
+  margin-left: 30%;
+
+}
+
+#logoAcaraje {
+  width: 5%;
+  height: 5%;
+}
+
+nav ul{
+
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li{
+  background-color: rgb(141, 141, 134);
+  border-radius: 15px;
+}
+
+nav ul li:hover{
+  background-color: rgb(0, 0, 0);
+}
+
+#cormenu:hover{
+  color: rgb(210, 129, 7);
+}
+
+#cormenu{
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+
+}
+
+.historia{
+  padding: 10px;
+  text-align: justify;
+}
+
+.clearfix{
+  padding: 10px;
+}
+
+.img {
+  margin-top: 15px;
+  margin-left: 10px;
+  width: 100px;
+}
+
+.imagens{
+  width: 200px;
+  height: 150px;
+  text-align: center;
+  margin-left: 100px;
+  margin-top: 20px;
+}
+
+
+.cardapio{
+  margin-left: 250px;
+}
+
+.d-flex{
+  margin-top: -40px;
+
+}
+
+.banner{
+  margin: 0 auto;
+  text-align: center;
+  margin-left: 185px;
+}
+
+.topico{
+  text-align: justify;
+}
+
+.h3{
+  margin-top: 20px;
+  text-decoration: underline;
+  
+}
+
+hr{
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 4px;
+
+}
+
+#foot-itens{
+text-align: left;
+
+}
+
+#insta{
+  text-decoration: none;
+  color: black;
+}
+
+#insta:hover{
+  text-decoration: underline;
+}
