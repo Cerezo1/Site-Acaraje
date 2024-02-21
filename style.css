@@ -51,6 +51,7 @@ nav ul{
 
 nav ul li{
   background-color: rgb(141, 141, 134);
+  margin-top: -10%;
   border-radius: 15px;
 }
 
@@ -68,19 +69,30 @@ nav ul li:hover{
 
 }
 
-.historia{
+p{
   padding: 10px;
   text-align: justify;
+  
 }
 
 .clearfix{
   padding: 10px;
 }
 
+#gestora {
+  height: 700px;
+  margin-top: 4%;
+}
+
+h1 {
+  text-align: center;
+}
+
 .img {
-  margin-top: 15px;
-  margin-left: 10px;
-  width: 100px;
+  margin-top: 10px;
+  margin-left: 30px;
+  width: 80px;
+  border-radius: 20px;
 }
 
 .imagens{
@@ -129,6 +141,8 @@ hr{
 #foot-itens{
 text-align: left;
 
+
+
 }
 
 #insta{
@@ -138,4 +152,8 @@ text-align: left;
 
 #insta:hover{
   text-decoration: underline;
+}
+
+svg {
+  margin-top: -10%;
 }
